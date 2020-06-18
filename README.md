@@ -9,6 +9,20 @@ With the Workout Tracker, a user will be able to view, create and track daily wo
 Here is a link to the application.  Enjoy!
 
 
+# Screenshots
+
+### Home Page
+![image](https://user-images.githubusercontent.com/60622571/85069692-8c8ae880-b182-11ea-9400-28d4f672cc76.png)
+
+
+### Exercise Page
+![image](https://user-images.githubusercontent.com/60622571/85069752-a62c3000-b182-11ea-8dcf-9a39b73335fb.png)
+
+
+### Stats Page
+![image](https://user-images.githubusercontent.com/60622571/85069811-b93f0000-b182-11ea-94ff-056848837aa0.png)
+
+
 # Technologies Used
 
 ### Front End
