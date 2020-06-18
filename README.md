@@ -11,14 +11,14 @@ Here is a link to the application.  Enjoy!
 
 # Technologies Used
 
-Front End
+### Front End
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
-Back End
+### Back End
 
-Mongoose
-Node JS
-Express
+- Mongoose
+- Node JS
+- Express
