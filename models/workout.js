@@ -1,5 +1,7 @@
+//require Mongoose
 const mongoose = require('mongoose')
 
+//creating Schema
 const Schema = mongoose.Schema
 
 const workoutSchema = new Schema({
@@ -41,6 +43,8 @@ const workoutSchema = new Schema({
   }
 })
 
+//creating Workout model
 const Workout = mongoose.model('Workout', workoutSchema)
 
+//exporting Workout model
 module.exports = Workout;
