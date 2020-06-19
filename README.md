@@ -6,7 +6,8 @@ An application that can view, create, and track daily workouts.
 With the Workout Tracker, a user will be able to view, create and track daily workouts.  Multiple exercises in a workout will be able to logged on any given day. The name, type, weight, sets, reps, and duration of exercise will be able to be tracked. In addition, if the exercise is a cardio exercise, the distance traveled will be able to be tracked. 
 
 
-Here is a link to the application.  Enjoy!
+Here is the application in action!
+[Workout Tracker](https://safe-anchorage-51541.herokuapp.com/)
 
 
 # Screenshots
